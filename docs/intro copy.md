@@ -2,9 +2,9 @@
 sidebar_position: 1
 ---
 
-# 白皮书
+# 白皮书-复制
 
-**申明：**这是一个绝对空开透明的项目.
+Let's discover **Docusaurus in less than 5 minutes**.
 
 ## Getting Started
 

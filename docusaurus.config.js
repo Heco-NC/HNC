@@ -17,7 +17,7 @@ module.exports = {
         src: 'img/logo.svg',
       },
       items: [
-        {to: '/blog', label: '项目日志', position: 'right'},
+        {to: '/blog', label: '项目公示', position: 'right'},
         
         {
           type: 'doc',
