@@ -7,7 +7,7 @@ module.exports = {
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'facebook', // Usually your GitHub org/user name.
+  organizationName: 'H Freeman', // Usually your GitHub org/user name.
   projectName: 'docusaurus', // Usually your repo name.
   themeConfig: {
     navbar: {
@@ -31,47 +31,55 @@ module.exports = {
     footer: {
       style: 'dark',
       links: [
+       
+       
         {
-          title: 'Docs',
+          title: '电报',
           items: [
             {
-              label: 'Tutorial',
-              to: '/docs/intro',
+              label: '电报群',
+              href: 'https://t.me/heco_newcoin',
+            },
+            {
+              label: 'Email',
+              to: 'heco-newcoin@outlook.com',
             },
           ],
         },
         {
-          title: 'Community',
+          title: '链接',
           items: [
+            
             {
-              label: 'Stack Overflow',
-              href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+              label: 'Dogeswap',
+              href: 'https://dogeswap.com/#/swap',
             },
             {
-              label: 'Discord',
-              href: 'https://discordapp.com/invite/docusaurus',
+              label: 'xFarmer',
+              href: 'https://xfarmer.net/',
             },
             {
-              label: 'Twitter',
-              href: 'https://twitter.com/docusaurus',
+              label: 'Btok',
+              to: 'https://www.btok.io/',
             },
           ],
         },
         {
-          title: 'More',
+          title: '钱包',
           items: [
             {
-              label: 'Blog',
-              to: '/blog',
+              label: 'Huobi Wallet',
+              to: 'https://www.huobiwallet.com/',
             },
             {
-              label: 'GitHub',
-              href: 'https://github.com/facebook/docusaurus',
+              label: 'Token Pocket',
+              href: 'https://www.tokenpocket.pro/',
             },
           ],
         },
+        
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} Heco New Coin, Inc.`,
     },
   },
   presets: [
