@@ -42,7 +42,7 @@ module.exports = {
             },
             {
               label: 'Email',
-              to: 'heco-newcoin@outlook.com',
+              to: 'mailto:heco-newcoin@outlook.com',
             },
           ],
         },

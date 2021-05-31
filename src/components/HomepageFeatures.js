@@ -5,31 +5,32 @@ import styles from './HomepageFeatures.module.css';
 const FeatureList = [
   {
     title: '简介',
-    Svg: require('../../static/img/jiaoyi.svg').default,
+    Svg: require('../../static/img/logo_623x425.svg').default,
     description: (
       <>
-        HNC(0x90Be209629cc4a8faa918F395F7686255e49244B)发行于HECO生态链，
-        总额100亿，90%进入流动池，2%项目方保留，8%用于空投。
-        HNC作为Heco New Coin电报群的平台代币，任何想在该电报群宣传的项目方，
-        都需要支付相应的HNC作为宣传费。
+      HNC(<a href="https://hecoinfo.com/token/0x144a9252f91bddb375bb09cb51a3a6e4f199289b" target="_blank">0x144a9252f91bddb375bb09cb51a3a6e4f199289b</a>
+      )发行于HECO生态链，
+        总额100亿，80%进入流动池，14%用于空投，6%项目方保留。
+        HNC作为Heco New Coin电报群的平台唯一权益凭证，
+        持有代币则享有平台的提案、投票及治理权，且HNC作为平台唯一宣传支付凭证。
       </>
     ),
   },
   {
     title: '鼓励',
-    Svg: require('../../static/img/undraw_docusaurus_tree.svg').default,
+    Svg: require('../../static/img/trade.svg').default,
     description: (
       <>
         HNC鼓励持币地址参与交易，做波段获取收益是一种智慧。
         不管买入还是卖出，只有流动性才能带来生机。
-        因为为了奖励交易地址，每次项目方收到宣传支付的HNC后，
+        为了奖励交易地址，每次项目方收到宣传支付的HNC后，
         将拿出90%用于奖励交易地址，规则详见白皮书。
       </>
     ),
   },
   {
     title: '选择',
-    Svg: require('../../static/img/undraw_docusaurus_react.svg').default,
+    Svg: require('../../static/img/dogeswap.svg').default,
     description: (
       <>
         Dogeswap并不是为HNC背书的平台，选择Dogeswap的主要原因是
