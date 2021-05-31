@@ -42,7 +42,7 @@ module.exports = {
             },
             {
               label: 'Email',
-              to: 'https://www.baidu.com',
+              to: 'mailto:heco-newcoin@outlook.com',
             },
           ],
         },
