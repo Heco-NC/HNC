@@ -11,7 +11,7 @@ module.exports = {
   projectName: 'docusaurus', // Usually your repo name.
   themeConfig: {
     navbar: {
-      title: 'hnc.vecel.app',
+      title: 'heco-newcoin.com',
       logo: {
         alt: 'My Site Logo',
         src: 'img/logo.svg',
@@ -34,7 +34,7 @@ module.exports = {
        
        
         {
-          title: '电报',
+          title: '联系',
           items: [
             {
               label: '电报群',

@@ -14,7 +14,7 @@ HNC（Heco New Coin）是基于火币生态链Heco发行的代币，
 
 **总发行量：100亿**（不通缩，不私募）
 
-**流动池：80亿**（2021.6.4 20点GMT+8，80亿HNC/500Usdt，Dogeswap）
+**流动池：80亿**（2021.6.4 20:00开放，80亿HNC/800USDT，Dogeswap）
 
 **项目方持有：6亿**（流动池建立后100天不可减持）
 
@@ -26,32 +26,82 @@ HNC（Heco New Coin）是基于火币生态链Heco发行的代币，
 
 空投号钱包地址：0xfb453887254cc32ae3c600f96ef1dde47c2a16bc
 
-`注：为防止恶意建池，空投会在建池后陆续发放，并定期在官网公示。`
-
 ## HNC作用
 
-HNC是Btok上“Heco New Coin”电报群组的平台代币
+HNC是Btok上“Heco New Coin”电报群组的平台唯一权益凭证，
 
 电报群链接：https://t.me/heco_newcoin
 
+持有代币则享有平台的提案、投票及治理权，
 
+且HNC作为平台唯一宣传支付凭证。
 
-Generate a new Docusaurus site using the **classic template**:
+任何希望在HNC电报平台宣传的项目方，
 
-```shell
-npx @docusaurus/init@latest init my-website classic
-```
+都需要支付电报群人数*1000的HNC代币作为宣传费用。
 
-## Start your site
+`注：系数'1000'会在后期变更，具体变更数值以社区投票决定。`
 
-Run the development server:
+宣传支付的HNC分配原则如下：
 
-```shell
-cd my-website
+20%归项目方所有，80%空投给交易地址；
 
-npx docusaurus start
-```
+空投交易地址选取8个，每个空投10%，
 
-Your site starts at `http://localhost:3000`.
+取项目方收到HNC后，在初始流动池买入或卖出的前8个地址；
 
-Open `docs/intro.md` and edit some lines: the site **reloads automatically** and display your changes.
+`注：重复地址只算一次，空投结果定期在官网公示`
+
+## HNC路线
+
+### V1
+
+流动池资金价值1万USDT，并超过100U手续费，
+
+申请上线Dogeswap单币区挖矿，赚取Dog；
+
+### V2
+
+流动池资金价值10万USDT，且连续每日手续费超过100U手续费，
+
+申请上线Dogeswap LP挖矿，赚取Dog；
+
+### V3
+
+上中心化交易所由社区投票决定。
+
+## HNC愿景
+
+### 初级
+
+扶持新项目，为其带来更过关注度与流量；
+
+### 中级
+
+建立与非小号、币世界类似的区块链交流平台
+
+### 高级
+
+建立区块链审计机构共识体，
+
+不只是审计新项目的代码安全合理性，
+
+而是基于新项目在实用性、稳定性和创新性等方面的表现，
+
+出具综合评价结果，给出投资建议等级。
+
+### 终级
+
+不忘初心，坚定扶持优质的区块链新项目。
+
+加强区块链赛道布局，争当去中心马首是瞻！
+
+## 结语
+
+无论HNC平台发展到何种程度，
+
+永远坚持HNC（Heco New Coin）为平台的流通代币。
+
+无论价值几许，我自岿然不动。
+
+完-The End
