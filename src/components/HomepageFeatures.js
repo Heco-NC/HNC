@@ -24,7 +24,8 @@ const FeatureList = [
         HNC鼓励持币地址参与交易，做波段获取收益是一种智慧。
         不管买入还是卖出，只有流动性才能带来生机。
         为了奖励交易地址，每次项目方收到宣传支付的HNC后，
-        将拿出80%用于奖励交易地址，规则详见白皮书。
+        将拿出80%用于奖励交易地址，规则详见
+        <a href="/docs/intro" target="_blank">白皮书</a>。
       </>
     ),
   },
@@ -33,7 +34,7 @@ const FeatureList = [
     Svg: require('../../static/img/dogeswap.svg').default,
     description: (
       <>
-        Dogeswap并不是为HNC背书的平台，选择Dogeswap的主要原因是
+        <a href="https://dogeswap.com/#/swap" target="_blank">Dogeswap</a>并不是为HNC背书的平台，选择Dogeswap的主要原因是
         Dogeswap对新项目支持力度很大。HNC持币地址和价值达到一定规模后，
         可向Dogeswap申请单币质押挖矿和LP流动性挖矿，
         进一步提升持币地址的收益。
