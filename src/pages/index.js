@@ -17,7 +17,7 @@ function HomepageHeader() {
           <Link
             className="button button--secondary button--lg"
             to="/docs/intro">
-            一个公开透明的项目
+            黑牛币 ✈️ 一个公开透明的项目
           </Link>
         </div>
       </div>
