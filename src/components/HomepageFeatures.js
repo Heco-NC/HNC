@@ -17,19 +17,6 @@ const FeatureList = [
     ),
   },
   {
-    title: '鼓励',
-    Svg: require('../../static/img/trade.svg').default,
-    description: (
-      <>
-        HNC鼓励持币地址参与交易，做波段获取收益是一种智慧。
-        不管买入还是卖出，只有流动性才能带来生机。
-        为了奖励交易地址，每次项目方收到宣传支付的HNC后，
-        将拿出80%用于奖励交易地址，规则详见
-        <a href="/docs/intro" target="_blank">白皮书</a>。
-      </>
-    ),
-  },
-  {
     title: '选择',
     Svg: require('../../static/img/dogeswap.svg').default,
     description: (
@@ -41,6 +28,18 @@ const FeatureList = [
       </>
     ),
   },
+  {
+    title: '鼓励',
+    Svg: require('../../static/img/trade.svg').default,
+    description: (
+      <>
+        HNC鼓励持币地址参与交易，做波段获取收益是一种智慧。
+        不管买入还是卖出，只有流动性才能带来生机。
+        足够的流动性，产生更多的交易手续费，才能助力HNC更快的进入Dogeswap白名单。
+      </>
+    ),
+  },
+  
 ];
 
 function Feature({Svg, title, description}) {
